@@ -33,6 +33,9 @@ Javier Nieva
 Áreas de experiencia: Consultoría funcional y de negocios en Salesforce
 Hobby: Viajes
 
+Tomas Broggi
+Áreas de experiencia: compra y proveedores
+Hobby: Viajes en moto
 
 Listado de páginas de referencia:
 
